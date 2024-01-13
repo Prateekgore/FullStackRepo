@@ -79,11 +79,11 @@ public class ProductDaoImpl implements ProductDao {
 		return list;
 	}
 
-	@Override
-	public int updateProduct(ProductEntity productEntity) {
-		// TODO Auto-generated method stub
-		return 0;
-	}
+//	@Override
+//	public int updateProduct(ProductEntity productEntity) {
+//		// TODO Auto-generated method stub
+//		return 0;
+//	}
 
 	@Override
 	public int deleteProduct(long productId) {
